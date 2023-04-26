@@ -1,6 +1,6 @@
 // Print 1 to 5 number
 #include<stdio.h>
- 
+ //Using Business Logic format
  void Display()
  {
      int iCnt = 0;
