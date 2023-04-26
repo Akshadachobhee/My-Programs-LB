@@ -38,11 +38,11 @@ int main()
     
     if (bRet == true)
     {
-        printf("%d is completely Divisible by 3 & 5 Numbers",iValue);
+        printf("%d is completely Divisible by 3 & 5",iValue);
     } 
     else
     {
-       printf("%d is Not completely divisible by 3 & 5 Numbers",iValue);
+       printf("%d is Not completely divisible by 3 & 5",iValue);
     }
     return 0;
 }
