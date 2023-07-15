@@ -1,0 +1,1 @@
+//Accept 3 bit numbner and  check weather 3rd 
